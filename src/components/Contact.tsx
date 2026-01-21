@@ -73,7 +73,7 @@ function Contact() {
 
           <div className="contact-info">
             <a
-              href="/assets/Resume.pdf"
+              href="./assets/Resume.pdf"
               download="Resume.pdf"
               className="btn btn-outline"
             >

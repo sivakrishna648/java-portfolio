@@ -22,7 +22,7 @@ function Hero() {
               View Projects
             </button>
             <a
-              href="/assets/Resume.pdf"
+              href="./assets/Resume.pdf"
               download="Resume.pdf"
               className="btn btn-primary"
             >
